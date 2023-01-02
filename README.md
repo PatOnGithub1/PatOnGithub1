@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PatOnGithub1
-- 👀 My profile picture isnt updating, despite pressing update
 - 🌱 I’m currently learning JS and python
 
 
